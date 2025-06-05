@@ -7,7 +7,6 @@
 <img src="image.png">
 
 - デザイン/コーディング
-  - naldreo
   - [x - @ntetmet](https://x.com/ntetmet)
   
   <br>

@@ -7,7 +7,7 @@
 <img src="image.png">
 
 - デザイン/コーディング
-  - [x - @ntetmet](https://x.com/ntetmet)
+  -本人
   
   <br>
   
